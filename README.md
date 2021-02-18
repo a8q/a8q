@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">a8q / dsc.bio/a8q </a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">a8q</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from Japan.<br>
 
 </samp>
@@ -28,6 +28,10 @@ Current Project: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">a8q's dis
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UClJhN_CLAMgxVgQqgV8Y0_g">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://dsc.bio/a8q">
+  <img src="https://i.imgur.com/2nJAztj.png" width="30px" alt="Discord bio | dsc.bio"></a>
 </p> 
 
 
