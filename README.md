@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="dsc.bio/a8q">a8q</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <br>I'm a Computer Engineering Undergraduate Student from Japan.<br>
 
 </samp>
 
