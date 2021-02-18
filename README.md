@@ -26,7 +26,7 @@ Current Project: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">a8q's dis
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UClJhN_CLAMgxVgQqgV8Y0_g">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
 </p> 
 
