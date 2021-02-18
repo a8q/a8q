@@ -37,4 +37,7 @@ Current Project: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">a8q's dis
 ----
 Credits: [someone](https://github.com/a8q)
 
+[![a8q's GitHub stats](https://github-readme-stats.vercel.app/api?username=a8q)]
+
+
 Last Edited on: 2/18/21
